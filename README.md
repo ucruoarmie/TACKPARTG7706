@@ -1,5 +1,5 @@
-# [BDReborn V6 (Final Version)](https://telegram.me/BDReborn)
-
+# [BDReborn V6 (Final Version)]
+https://github.com/ucruoarmie/TACKPARTG7706
 **An advanced and powerful administration bot based on NEW TG-CLI
 
 
@@ -46,30 +46,4 @@ cd $HOME && git clone https://github.com/BeyondTeam/BDReborn.git && cd BDReborn 
 
 * * *
 
-# Support and Development
-
-More information [Beyond Global Chat](https://telegram.me/joinchat/AAAAAEIDQ8HTjezV4syUSA)
-
-# Special thanks to
-[@MrHalix](https://github.com/MrHalix)
-
-[@Vysheng](https://github.com/vysheng)
-
-* * *
-
-# Developers!
-
-[SoLiD](https://github.com/solid021) ([Telegram](https://telegram.me/SoLiD))
-
-[To0fan](https://github.com/To0fan) ([Telegram](https://telegram.me/ToOfan))
-
-[MAKAN](https://github.com/makanj) ([Telegram](https://telegram.me/MAKAN))
-
-
-### Our Telegram channel:
-
-[@BeyondTeam](https://telegram.me/BeyondTeam)
-
-### Our Web Site:
-
-[Beyond Development Forum](https://Beyond-Dev.iR)
+# 
